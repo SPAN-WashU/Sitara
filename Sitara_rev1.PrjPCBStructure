@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=_Block_level_sheet.SchDoc
+Record=SheetSymbol|SourceDocument=_Block_level_sheet.SchDoc|Designator=U_BLE_USB_nRF52840|SchDesignator=U_BLE_USB_nRF52840|FileName=BLE_USB_nRF52840.SchDoc|SymbolType=Normal|RawFileName=BLE_USB_nRF52840.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=_Block_level_sheet.SchDoc|Designator=U_Power_System|SchDesignator=U_Power_System|FileName=Power_System.SchDoc|SymbolType=Normal|RawFileName=Power_System.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=_Block_level_sheet.SchDoc|Designator=U_RF|SchDesignator=U_RF|FileName=RF.SchDoc|SymbolType=Normal|RawFileName=RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
