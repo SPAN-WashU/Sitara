@@ -3,8 +3,6 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ReleaseVaultGUID=
-ReleaseVaultName=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
@@ -33,6 +31,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+LinkedManagedProjectGUID=
 
 [Preferences]
 PrefsVaultGUID=
@@ -378,126 +377,15 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=2017-04-07\sitara_rev1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=2017-04-08\sitara_rev1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=2017-04-07\sitara_rev1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=2017-04-08\sitara_rev1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=2017-04-07\sitara_rev1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=2017-04-08\sitara_rev1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=2017-04-07\sitara_rev1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=2017-04-08\sitara_rev1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=2017-04-07\sitara_rev1.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=2017-04-08\sitara_rev1.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=2017-04-07\sitara_rev1.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=2017-04-08\sitara_rev1.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=2017-04-07\sitara_rev1.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=2017-04-08\sitara_rev1.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=2017-04-07\sitara_rev1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=2017-04-08\sitara_rev1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=2017-04-07\sitara_rev1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=2017-04-08\sitara_rev1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=2017-04-07\sitara_rev1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=2017-04-08\sitara_rev1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=2017-04-07\sitara_rev1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=2017-04-08\sitara_rev1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=2017-04-07\sitara_rev1.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=2017-04-08\sitara_rev1.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=2017-04-07\sitara_rev1.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=2017-04-08\sitara_rev1.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=2017-04-07\sitara_rev1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=2017-04-08\sitara_rev1.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
-CurrentRevision=
 Variant=[No Variations]
 OutputJobsCount=0
+ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -539,7 +427,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -670,7 +558,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -825,7 +713,7 @@ PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -847,7 +735,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -919,7 +807,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -968,7 +856,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1148,7 +1036,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -1187,7 +1075,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-5250DN series
+TargetPrinter=Brother HL-5250DN#:3
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1209,11 +1097,42 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=NetList Sch
-OutputName5=NetList Sch
+OutputType5=ExportPARASOLID
+OutputName5=Export PARASOLID
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Brother HL-5250DN#:3
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [Modification Levels]
 Type1=1
@@ -1296,6 +1215,16 @@ Type77=1
 Type78=1
 Type79=1
 Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
 
 [Difference Levels]
 Type1=1
@@ -1343,6 +1272,10 @@ Type42=1
 Type43=1
 Type44=0
 Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1456,6 +1389,8 @@ Type108=2
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
