@@ -50,7 +50,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=sitara_rev2.PcbDoc
+OutputDocumentPath2=sitara_rev3.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -88,7 +88,7 @@ Configuration2_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 PcbPrintPreferences2=
 
 [PublishSettings]
-OutputFilePath2=Z:\Sitara\.\Sitara_rev1.pdf
+OutputFilePath2=Z:\Sitara\.\Sitara_rev2.pdf
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=
@@ -96,7 +96,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Sitara_rev2.pdf
+OutputFileName2=Sitara_rev3.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -167,7 +167,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Z:\Sitara\.\Sitara_rev1.pdf
+RelativeOutputPath2=Z:\Sitara\.\Sitara_rev2.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
