@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: sitara_rev3.PcbDoc   9/4/2018  9:24:06 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : sitara_rev3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             4         PTH        0.26inch (6.52mm)
+T2      8mil (0.2mm)                                              Round             10        PTH        1.15inch (29.13mm)
+T3      8mil (0.203mm)                                            Round             251       PTH        27.89inch (708.33mm)
+T4      12mil (0.305mm)                                           Round             20        PTH        1.53inch (38.75mm)
+T5      28mil (0.7mm)                                             Round             10        PTH        0.50inch (12.70mm)
+T6      35mil (0.9mm)                                             Round             10        PTH        1.29inch (32.81mm)
+T7      113mil (2.87mm)                                           Round             2         PTH        2.53inch (64.29mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              307
+
+Total Processing Time (hh:mm:ss) : 00:00:00
