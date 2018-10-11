@@ -464,83 +464,139 @@ GenerateClassCluster=0
 DocumentUniqueId=QFTBDHVW
 
 [GeneratedDocument1]
-DocumentPath=.\2018-10-01\Bill of Materials-sitara_bom.xls
+DocumentPath=2018-10-01\Bill of Materials-sitara_bom.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Sitara\Design Rule Check - sitara_rev3.html
+DocumentPath=.\2018-10-10\Bill of Materials-sitara_bom.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\2018-10-01\Pick Place for sitara_rev3b.txt
+DocumentPath=Project Outputs for Sitara\Design Rule Check - sitara_rev3.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\2018-10-01\sitara_rev3b.DRR
+DocumentPath=2018-10-01\Pick Place for sitara_rev3b.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\2018-10-01\sitara_rev3b.EXTREP
+DocumentPath=.\2018-10-10\Pick Place for sitara_rev3b.txt
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\2018-10-01\sitara_rev3b.GBL
+DocumentPath=.\2018-10-10\sitara_rev3b.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\2018-10-01\sitara_rev3b.GBO
+DocumentPath=.\2018-10-10\sitara_rev3b.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\2018-10-01\sitara_rev3b.GBP
+DocumentPath=2018-10-01\sitara_rev3b.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\2018-10-01\sitara_rev3b.GBS
+DocumentPath=.\2018-10-10\sitara_rev3b.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\2018-10-01\sitara_rev3b.GM3
+DocumentPath=2018-10-01\sitara_rev3b.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\2018-10-01\sitara_rev3b.GP1
+DocumentPath=.\2018-10-10\sitara_rev3b.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\2018-10-01\sitara_rev3b.GP2
+DocumentPath=2018-10-01\sitara_rev3b.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\2018-10-01\sitara_rev3b.GTL
+DocumentPath=.\2018-10-10\sitara_rev3b.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\2018-10-01\sitara_rev3b.GTO
+DocumentPath=2018-10-01\sitara_rev3b.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\2018-10-01\sitara_rev3b.GTP
+DocumentPath=.\2018-10-10\sitara_rev3b.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\2018-10-01\sitara_rev3b.GTS
+DocumentPath=2018-10-01\sitara_rev3b.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\2018-10-01\sitara_rev3b.LDP
+DocumentPath=.\2018-10-10\sitara_rev3b.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\2018-10-01\sitara_rev3b.REP
+DocumentPath=2018-10-01\sitara_rev3b.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\2018-10-01\sitara_rev3b.RUL
+DocumentPath=.\2018-10-10\sitara_rev3b.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\2018-10-01\sitara_rev3b.TXT
+DocumentPath=2018-10-01\sitara_rev3b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\2018-10-10\sitara_rev3b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=2018-10-01\sitara_rev3b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\2018-10-10\sitara_rev3b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=2018-10-01\sitara_rev3b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\2018-10-10\sitara_rev3b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=2018-10-01\sitara_rev3b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\2018-10-10\sitara_rev3b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=2018-10-01\sitara_rev3b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\2018-10-10\sitara_rev3b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\2018-10-10\sitara_rev3b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\2018-10-10\sitara_rev3b.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\2018-10-10\sitara_rev3b.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=2018-10-01\sitara_rev3b.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\2018-10-10\sitara_rev3b.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1288,6 +1344,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
